@@ -19,4 +19,3 @@ elif imc <= 24:
 else:
     imc >= 24
     print('você está muito acima do peso!')
-
